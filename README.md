@@ -1,5 +1,5 @@
 # Game-Design
-Assignment answer for Coursera C++ Programming Design (Peking University) Week6 - 4.
+Project for Coursera C++ Programming Design (Peking University) Week6.
 
 This program is a battle game within two team:blue team and red team. Each team has 5 different kinds of warriors.
 Warriors are created at particular time by a certain rule.
